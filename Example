@@ -1,0 +1,18 @@
+Eg.
+111101111011101110
+
+n  k
+18 3
+
+Queries Asked
+? 1 9
+8         --->Query Answered
+? 10 14
+3
+? 10 12
+2
+? 13 13
+1
+
+Answer Position of 3rd Zero
+! 14
