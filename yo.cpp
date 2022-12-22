@@ -46,8 +46,8 @@ using namespace std;
 
 int main()
 {
-  int n,t,k;
-  cin >> n >> t >> k;
+  int n,k;
+  cin >> n >> k;
 
   ll num=0;
   ll lo=1,hi=n,mid=0;
